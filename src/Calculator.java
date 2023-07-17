@@ -23,7 +23,7 @@ public class Calculator
         System.out.println("what do u want to do");
          n = scanner.nextInt();
 
-         if(n == 1)
+         if(n == 1)git
          {
              Sum(num1,num2);
              num5=num1+num2;
